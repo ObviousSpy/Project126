@@ -1,0 +1,15 @@
+
+
+.NOTE{
+    font-size: 15px;
+    color: firebrick;
+}
+
+body {
+    background-size: cover;
+    }
+
+canvas {
+ border: 5px solid khaki;
+border-radius: 20px; 
+}
